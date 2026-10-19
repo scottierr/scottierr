@@ -5,4 +5,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://komarev.com/ghpvc/?username=scottierr)](https://visitcount.itsvg.in)   ![imagealt](https://github.com/scottierr/scottie/blob/4f9778f46483f356f4baa2660af0b29aa02bb8cb/catboyrights.gif)
 
 
-<sub><sup>"ur github is ugly anf unfinished" atleast its mine!<sup\>
+<sub><sup>"ur github is ugly anf unfinished" atleast its mine!</sup></sub>
