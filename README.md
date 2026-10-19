@@ -10,6 +10,4 @@ she  her   ﹒   he  him<br><br>please cuddle with me ( ˶˘ ³˘)♡
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=scottierr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=scottierr)](https://visitcount.itsvg.in)
-
-![imagealt](https://github.com/scottierr/scottie/blob/4f9778f46483f356f4baa2660af0b29aa02bb8cb/catboyrights.gif)
+[![](https://komarev.com/ghpvc/?username=scottierr)](https://visitcount.itsvg.in)   ![imagealt](https://github.com/scottierr/scottie/blob/4f9778f46483f356f4baa2660af0b29aa02bb8cb/catboyrights.gif)
