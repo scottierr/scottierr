@@ -12,4 +12,4 @@ she  her   ﹒   he  him<br><br>please cuddle with me ( ˶˘ ³˘)♡
 ---
 [![](https://komarev.com/ghpvc/?username=scottierr)](https://visitcount.itsvg.in)
 
-![imagealt](
+![imagealt](https://github.com/scottierr/scottie/blob/4f9778f46483f356f4baa2660af0b29aa02bb8cb/catboyrights.gif)
