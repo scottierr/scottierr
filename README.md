@@ -1,4 +1,4 @@
-# 💫 About Me:
+![imagealt](https://github.com/scottierr/scottie/blob/76476a3ad598281821f829587698efbd8e354522/the%20walking%20dead%20header.jpeg)
 she  her   ﹒   he  him<br><br>please cuddle with me ( ˶˘ ³˘)♡
 
 
