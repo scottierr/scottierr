@@ -1,6 +1,6 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![imagealt](https://github.com/scottierr/scottie/blob/76476a3ad598281821f829587698efbd8e354522/the%20walking%20dead%20header.jpeg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![imagealt](https://github.com/scottierr/scottie/blob/76476a3ad598281821f829587698efbd8e354522/the%20walking%20dead%20header.jpeg)
 
-               she  her   ﹒   he  him               please cuddle with me ( ˶˘ ³˘)♡
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;she  her   ﹒   he  him               please cuddle with me ( ˶˘ ³˘)♡
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 
